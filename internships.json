@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Web Developer Internship",
+    "mode": "Online",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Software",
+    "stipend": "Unpaid",
+    "duration": "2 Months",
+    "apply_by": "15 May 2025",
+    "company": "Robokwik",
+    "role": "Web Developer Intern",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+
+    "title": "Data Analyst Intern Internship",
+    "mode": "Online",
+    "location": "Mumbai",
+    "type": "Internship",
+    "sector": "Government",
+    "category": "Hardware",
+    "stipend": "Paid",
+    "duration": "6 Months",
+    "apply_by": "22 Jun 2025",
+    "company": "DataZen",
+    "role": "Mobile Developer Intern",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "React",
+      "MongoDB"
+    ]
+  },
+  {
+
+    "title": "Web Developer Intern Internship",
+    "mode": "Offline",
+    "location": "Chennai",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Hardware",
+    "stipend": "Unpaid",
+    "duration": "4 Months",
+    "apply_by": "28 May 2025",
+    "company": "ByteWorks",
+    "role": "Web Developer Intern",
+    "skills": [
+      "CSS",
+      "Node.js",
+      "Python",
+      "MongoDB"
+    ]
+  },
+  {
+    "title": "Web Developer Intern Internship",
+    "mode": "Online",
+    "location": "Kolkata",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Hardware",
+    "stipend": "Unpaid",
+    "duration": "5 Months",
+    "apply_by": "15 Jun 2025",
+    "company": "DataZen",
+    "role": "Web Developer Intern",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "description": "This internship provides hands-on experience in the selected domain.",
+    "who_can_apply": [
+      "from any location",
+      "any specialization",
+      "available for full duration"
+    ]
+  }
+]
