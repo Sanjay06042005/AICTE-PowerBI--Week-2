@@ -23,9 +23,10 @@ def main():
         db.apprenticeships.delete_many({})
         db.apprenticeships.insert_many(apprenticeships)
 
-    print("✅ Seed complete.",
+    print("Seed complete.",
           f"internships: {db.internships.count_documents({})},",
           f"apprenticeships: {db.apprenticeships.count_documents({})}")
 
 if __name__ == "__main__":
     main()
+
